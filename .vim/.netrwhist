@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/lucasarruda/Sites/manifests'
+let g:netrw_dirhist_2='/Users/lucasarruda/Sites/aldeya/.elasticbeanstalk'
+let g:netrw_dirhist_3='/Users/lucasarruda/Workspace/drupalmoduleupgrader/vendor/squizlabs/php_codesniffer/CodeSniffer/Standards/Drupal7to8'
+let g:netrw_dirhist_4='/Users/lucasarruda/Workspace/flood_control_d8'
+let g:netrw_dirhist_5='/Users/lucasarruda/Workspace/flood_control_d8/.git'
+let g:netrw_dirhist_6='/Users/lucasarruda/Workspace/flood_control_d8'
+let g:netrw_dirhist_7='/Users/lucasarruda/Workspace'
